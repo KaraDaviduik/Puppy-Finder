@@ -7,7 +7,6 @@ import messages
 
 sleep_time = 120 # checks SPCA again after this amount of time
 
-# I am working on converting all of the methods within SPCA() into individual methods
 def SPCA():
     abort = False
     puppy_dict = {}
